@@ -31,4 +31,4 @@ npm run lint
 ```
 
 ### Результат
-Смотрите [Configuration Reference](https://cli.vuejs.org/config/).
+Смотрите на [https://perfektion.github.io/ekf/](https://perfektion.github.io/ekf/).
